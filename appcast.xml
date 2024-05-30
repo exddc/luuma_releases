@@ -4,11 +4,11 @@
         <title>luuma</title>
         <item>
             <title>0.3</title>
-            <pubDate>Wed, 29 May 2024 22:13:51 +0200</pubDate>
+            <pubDate>Thu, 30 May 2024 11:55:00 +0200</pubDate>
             <sparkle:version>0.3</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/testing/luuma.dmg" length="3154344" type="application/octet-stream" sparkle:edSignature="znzp0Pw5zH1z/fOoZWqnNfED8w4Nb5FPwKV37lWf1Ss42TSx49odFTwcDgsi0oxcpwtsbdgU7ZiqYxRPMESJBQ=="/>
+            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/testing/luuma.dmg" length="3156235" type="application/octet-stream" sparkle:edSignature="KJsTWf2adke7z9ct/CuaAJwDqFiF27d6OAct8HAnM798o7gWrE2bde3Jf8V9PUccIU/hYuKYXZ4J8B5iNTJvBQ=="/>
         </item>
     </channel>
 </rss>
