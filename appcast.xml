@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/production/luuma.dmg" length="2552856" type="application/octet-stream" sparkle:edSignature="lIuuv3SpxtyHCtpl8Z8KRHt+/hnTnlpPhADkcOJil/XrilG8o9Soa/j8qZWYylDOfvA057Fs2YZbVxBVJO3dDw=="/>
+            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/production/luuma.dmg" length="2564219" type="application/octet-stream" sparkle:edSignature="lIuuv3SpxtyHCtpl8Z8KRHt+/hnTnlpPhADkcOJil/XrilG8o9Soa/j8qZWYylDOfvA057Fs2YZbVxBVJO3dDw=="/>
         </item>
     </channel>
 </rss>
