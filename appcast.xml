@@ -3,12 +3,12 @@
     <channel>
         <title>luuma</title>
         <item>
-            <title>0.3</title>
-            <pubDate>Thu, 30 May 2024 12:06:44 +0200</pubDate>
-            <sparkle:version>0.3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <title>0.4</title>
+            <pubDate>Fri, 31 May 2024 12:51:15 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/testing/luuma.dmg" length="3149012" type="application/octet-stream" sparkle:edSignature="TQ/sOE8H9mY9vx0Ac5MdkhG0WPsAslXwRIaTl/DzGwWHUpNAngpChnPOTGtFV3Wnsof0OTRllNZvMl0ZEQV2Aw=="/>
+            <enclosure url="https://github.com/exddc/luuma_releases/releases/download/production/luuma.dmg" length="2552856" type="application/octet-stream" sparkle:edSignature="d8i0V1gykxPG4i27HeFL+HGjhiPEevm1E+f8b3NDtboGOmG5b7q1Q2yZ3ave2suAxQrTwdk0JaHV//GKptf5Cg=="/>
         </item>
     </channel>
 </rss>
